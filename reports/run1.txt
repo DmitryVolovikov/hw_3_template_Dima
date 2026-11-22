@@ -1,0 +1,45 @@
+ test_9e452684-app  Built
+ Network test_9e452684_default  Creating
+ Network test_9e452684_default  Created
+ Volume "test_9e452684_redis_data"  Creating
+ Volume "test_9e452684_redis_data"  Created
+ Container test_9e452684-redis-1  Creating
+ Container test_9e452684-redis-1  Created
+ Container test_9e452684-app-1  Creating
+ Container test_9e452684-app-1  Created
+ Container test_9e452684-redis-1  Starting
+ Container test_9e452684-redis-1  Started
+ Container test_9e452684-redis-1  Waiting
+ Container test_9e452684-redis-1  Healthy
+ Container test_9e452684-app-1  Starting
+ Container test_9e452684-app-1  Started
+curl: (52) Empty reply from server
+ Container test_9e452684-app-1  Recreate
+ Container test_9e452684-app-1  Recreated
+ Container test_9e452684-app-1  Starting
+ Container test_9e452684-app-1  Started
+ Container test_9e452684-redis-1  Stopping
+ Container test_9e452684-redis-1  Stopped
+ Container test_9e452684-redis-1  Starting
+ Container test_9e452684-redis-1  Started
+ Container test_9e452684-app-1  Stopping
+ Container test_9e452684-redis-1  Stopping
+ Container test_9e452684-redis-1  Stopped
+ Container test_9e452684-app-1  Stopped
+ Container test_9e452684-redis-1  Stopping
+ Container test_9e452684-app-1  Stopping
+ Container test_9e452684-redis-1  Stopped
+ Container test_9e452684-redis-1  Removing
+ Container test_9e452684-app-1  Stopped
+ Container test_9e452684-app-1  Removing
+ Container test_9e452684-redis-1  Removed
+ Container test_9e452684-app-1  Removed
+ Volume test_9e452684_redis_data  Removing
+ Network test_9e452684_default  Removing
+ Volume test_9e452684_redis_data  Removed
+ Network test_9e452684_default  Removed
+Счётчик OK
+Пересоздание OK
+Redis OK
+Копия: C:\Users\volov\3 Дз ИПР\hw_3_template_Dima\backups\test_9e452684.tar
+Все проверки прошли

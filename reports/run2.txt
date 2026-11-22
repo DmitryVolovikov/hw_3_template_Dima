@@ -1,0 +1,44 @@
+ test_4dadfcb8-app  Built
+ Network test_4dadfcb8_default  Creating
+ Network test_4dadfcb8_default  Created
+ Volume "test_4dadfcb8_redis_data"  Creating
+ Volume "test_4dadfcb8_redis_data"  Created
+ Container test_4dadfcb8-redis-1  Creating
+ Container test_4dadfcb8-redis-1  Created
+ Container test_4dadfcb8-app-1  Creating
+ Container test_4dadfcb8-app-1  Created
+ Container test_4dadfcb8-redis-1  Starting
+ Container test_4dadfcb8-redis-1  Started
+ Container test_4dadfcb8-redis-1  Waiting
+ Container test_4dadfcb8-redis-1  Healthy
+ Container test_4dadfcb8-app-1  Starting
+ Container test_4dadfcb8-app-1  Started
+ Container test_4dadfcb8-app-1  Recreate
+ Container test_4dadfcb8-app-1  Recreated
+ Container test_4dadfcb8-app-1  Starting
+ Container test_4dadfcb8-app-1  Started
+ Container test_4dadfcb8-redis-1  Stopping
+ Container test_4dadfcb8-redis-1  Stopped
+ Container test_4dadfcb8-redis-1  Starting
+ Container test_4dadfcb8-redis-1  Started
+ Container test_4dadfcb8-redis-1  Stopping
+ Container test_4dadfcb8-app-1  Stopping
+ Container test_4dadfcb8-redis-1  Stopped
+ Container test_4dadfcb8-app-1  Stopped
+ Container test_4dadfcb8-app-1  Stopping
+ Container test_4dadfcb8-redis-1  Stopping
+ Container test_4dadfcb8-app-1  Stopped
+ Container test_4dadfcb8-app-1  Removing
+ Container test_4dadfcb8-redis-1  Stopped
+ Container test_4dadfcb8-redis-1  Removing
+ Container test_4dadfcb8-app-1  Removed
+ Container test_4dadfcb8-redis-1  Removed
+ Volume test_4dadfcb8_redis_data  Removing
+ Network test_4dadfcb8_default  Removing
+ Volume test_4dadfcb8_redis_data  Removed
+ Network test_4dadfcb8_default  Removed
+Счётчик OK
+Пересоздание OK
+Redis OK
+Копия: C:\Users\volov\3 Дз ИПР\hw_3_template_Dima\backups\test_4dadfcb8.tar
+Все проверки прошли
